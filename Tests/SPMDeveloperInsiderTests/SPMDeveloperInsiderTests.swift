@@ -9,6 +9,10 @@ final class SPMDeveloperInsiderTests: XCTestCase {
         XCTAssertEqual(SPMDeveloperInsider().name, "Developer Insider")
     }
 
+    func testSum(){
+        XCTAssertEqual(SPMDeveloperInsider().Sum(num1: 4, num2: 5), 9)
+    }
+
 
     static var allTests = [
         ("testExample", testExample),
