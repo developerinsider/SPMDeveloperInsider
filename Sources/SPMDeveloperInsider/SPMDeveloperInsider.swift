@@ -1,5 +1,5 @@
 public struct SPMDeveloperInsider {
-    init() {
+    public init() {
         
     }
     
