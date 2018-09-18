@@ -1,3 +1,3 @@
 # SPMDeveloperInsider
 
-A description of this package.
+https://developerinsider.co/create-a-library-using-swift-package-manager-stepwise-tutorial/
